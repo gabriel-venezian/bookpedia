@@ -8,7 +8,7 @@ Aqui serão listados livros de conteúdos diversos, que me despertaram interesse
 
 Sinta-se à vontade para me indicar leituras, ou iniciar uma conversa sobre algum livro específico. Todo conhecimento é muito bem vindo!
 
-## Leitura em andamento
+## Leituras em andamento
 
 [Criatividade S.A (Ed Catmull)](https://www.google.com.br/books/edition/Criatividade_S_A/BM1TBQAAQBAJ?hl=pt-BR&gbpv=0)
 
