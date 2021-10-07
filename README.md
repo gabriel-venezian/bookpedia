@@ -20,5 +20,5 @@ Sinta-se à vontade para me indicar leituras, ou iniciar uma conversa sobre algu
 
 
 
-## Leituras finalizadas
+## Leituras concluídas
 
