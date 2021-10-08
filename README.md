@@ -18,7 +18,7 @@ Sinta-se à vontade para me indicar leituras, ou iniciar uma conversa sobre algu
 
 [Como Mentir com Estatística (Darrell Huff)](https://www.google.com.br/books/edition/Como_mentir_com_estat%C3%ADstica/6UQlDAAAQBAJ?hl=pt-BR&gbpv=0)
 
-
+[Rápido e devagar (Daniel Kahneman)](https://www.google.com.br/books/edition/R%C3%A1pido_e_devagar/d3FloqhQHgQC?hl=pt-BR&gbpv=0)
 
 ## Leituras concluídas
 
