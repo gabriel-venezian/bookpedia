@@ -10,9 +10,7 @@ Sinta-se à vontade para me indicar leituras, ou iniciar uma conversa sobre algu
 
 ## Leituras em andamento
 
-[Criatividade S.A (Ed Catmull)](https://www.google.com.br/books/edition/Criatividade_S_A/BM1TBQAAQBAJ?hl=pt-BR&gbpv=0)
-
-
+[Criatividade S.A. (Ed Catmull)](https://www.google.com.br/books/edition/Criatividade_S_A/BM1TBQAAQBAJ?hl=pt-BR&gbpv=0)
 
 ## Lista de interesses
 
@@ -21,6 +19,12 @@ Sinta-se à vontade para me indicar leituras, ou iniciar uma conversa sobre algu
 [Previsivelmente irracional (Dan Ariely)](https://www.google.com.br/books/edition/Previsivelmente_irracional/wMb1DwAAQBAJ?hl=pt-BR&gbpv=0)
 
 [Rápido e devagar (Daniel Kahneman)](https://www.google.com.br/books/edition/R%C3%A1pido_e_devagar/d3FloqhQHgQC?hl=pt-BR&gbpv=0)
+
+[O design do dia a dia (Donald Norman)](https://www.google.com.br/books/edition/O_design_do_dia_a_dia/IVRVDwAAQBAJ?hl=pt-BR&gbpv=0)
+
+[Introduction to Algorithms (Thomas Cormen)](https://www.google.com.br/books/edition/Introduction_to_Algorithms/i-bUBQAAQBAJ?hl=pt-BR&gbpv=0)
+
+[A Pattern Language  (Christopher Alexander)](https://www.google.com.br/books/edition/A_Pattern_Language/FTpxDwAAQBAJ?hl=pt-BR&gbpv=0)
 
 ## Leituras concluídas
 
