@@ -26,5 +26,7 @@ Sinta-se à vontade para me indicar leituras, ou iniciar uma conversa sobre algu
 
 [A Pattern Language  (Christopher Alexander)](https://www.google.com.br/books/edition/A_Pattern_Language/FTpxDwAAQBAJ?hl=pt-BR&gbpv=0)
 
+[Sapiens - Uma breve história da humanidade (Yuval Harari) ](https://www.google.com.br/books/edition/Sapiens_Nova_edi%C3%A7%C3%A3o/JnoGEAAAQBAJ?hl=pt-BR&gbpv=0)
+
 ## Leituras concluídas
 
