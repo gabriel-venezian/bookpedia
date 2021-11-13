@@ -28,5 +28,7 @@ Sinta-se à vontade para me indicar leituras, ou iniciar uma conversa sobre algu
 
 [Sapiens - Uma breve história da humanidade (Yuval Harari) ](https://www.google.com.br/books/edition/Sapiens_Nova_edi%C3%A7%C3%A3o/JnoGEAAAQBAJ?hl=pt-BR&gbpv=0)
 
+[Código Limpo (Robert Martin)](https://www.google.com.br/books/edition/C%C3%B3digo_Limpo/GXWkDwAAQBAJ?hl=pt-BR&gbpv=0)
+
 ## Leituras concluídas
 
