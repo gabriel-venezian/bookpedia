@@ -8,6 +8,8 @@ Feel free to point me to readings, or start a conversation about any specific bo
 
 ## Reading
 
+[The Design of Everyday Things](https://books.google.com.br/books/about/The_Design_of_Everyday_Things.html?id=nVQPAAAAQBAJ&redir_esc=y)
+
 ## Interest List
 
 [How to Lie with Statistics](https://www.google.com.br/books/edition/How_to_Lie_with_Statistics/5oSU5PepogEC?hl=en&gbpv=1&printsec=frontcover)
@@ -15,8 +17,6 @@ Feel free to point me to readings, or start a conversation about any specific bo
 [Predictably Irrational](https://books.google.com.br/books/about/Predictably_Irrational_Revised_and_Expan.html?id=ro7X8HRyuEIC&redir_esc=y)
 
 [Thinking, Fast and Slow](https://www.google.com.br/books/edition/Thinking_Fast_and_Slow/oV1tXT3HigoC?hl=en&gbpv=1&printsec=frontcover)
-
-[The Design of Every Day Things](https://books.google.com.br/books/about/The_Design_of_Everyday_Things.html?id=nVQPAAAAQBAJ&redir_esc=y)
 
 [Introduction to Algorithms](https://www.google.com.br/books/edition/Introduction_to_Algorithms/i-bUBQAAQBAJ?hl=pt-BR&gbpv=0)
 
