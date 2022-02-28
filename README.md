@@ -2,7 +2,7 @@
 
 Repository created in order to organize and boost my reading habit.
 
-Here books from different contents will be listed, which aroused my interest and which I'm sure that will contribute to my personal and professional growth.
+Here books from different contents will be listed, which aroused my interest and will contribute to my personal and professional growth.
 
 Feel free to point me to readings, or start a conversation about any specific book. All knowledge is very welcome!
 
