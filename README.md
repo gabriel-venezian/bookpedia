@@ -1,34 +1,32 @@
-# Bem vindo ao Bookpedia! :books:
+# Welcome to Bookpedia! :books:
 
-Repositório criado com o intuito de organizar e impulsionar meu hábito de leitura.
+Repository created in order to organize and boost my reading habit.
 
-Utilizado também para a entrega do meu primeiro desafio da plataforma Digital Innovation One, referente ao curso de Introdução ao Git e GitHub.
+Here books from different contents will be listed, which aroused my interest and which I'm sure that will contribute to my personal and professional growth.
 
-Aqui serão listados livros de conteúdos diversos, que me despertaram interesse e sei que contribuirão em meu crescimento pessoal e profissional.
+Feel free to point me to readings, or start a conversation about any specific book. All knowledge is very welcome!
 
-Sinta-se à vontade para me indicar leituras, ou iniciar uma conversa sobre algum livro específico. Todo conhecimento é muito bem vindo!
+## Reading
 
-## Leituras em andamento
+[Creativity Inc.](https://www.google.com.br/books/edition/Creativity_Inc/hj6LBgAAQBAJ?hl=en&gbpv=1&printsec=frontcover)
 
-[Criatividade S.A. (Ed Catmull)](https://www.google.com.br/books/edition/Criatividade_S_A/BM1TBQAAQBAJ?hl=pt-BR&gbpv=0)
+## Interest List
 
-## Lista de interesses
+[How to Lie with Statistics](https://www.google.com.br/books/edition/How_to_Lie_with_Statistics/5oSU5PepogEC?hl=en&gbpv=1&printsec=frontcover)
 
-[Como Mentir com Estatística (Darrell Huff)](https://www.google.com.br/books/edition/Como_mentir_com_estat%C3%ADstica/6UQlDAAAQBAJ?hl=pt-BR&gbpv=0)
+[Predictably Irrational](https://books.google.com.br/books/about/Predictably_Irrational_Revised_and_Expan.html?id=ro7X8HRyuEIC&redir_esc=y)
 
-[Previsivelmente irracional (Dan Ariely)](https://www.google.com.br/books/edition/Previsivelmente_irracional/wMb1DwAAQBAJ?hl=pt-BR&gbpv=0)
+[Thinking, Fast and Slow](https://www.google.com.br/books/edition/Thinking_Fast_and_Slow/oV1tXT3HigoC?hl=en&gbpv=1&printsec=frontcover)
 
-[Rápido e devagar (Daniel Kahneman)](https://www.google.com.br/books/edition/R%C3%A1pido_e_devagar/d3FloqhQHgQC?hl=pt-BR&gbpv=0)
+[The Design of Every Day Things](https://books.google.com.br/books/about/The_Design_of_Everyday_Things.html?id=nVQPAAAAQBAJ&redir_esc=y)
 
-[O design do dia a dia (Donald Norman)](https://www.google.com.br/books/edition/O_design_do_dia_a_dia/IVRVDwAAQBAJ?hl=pt-BR&gbpv=0)
+[Introduction to Algorithms](https://www.google.com.br/books/edition/Introduction_to_Algorithms/i-bUBQAAQBAJ?hl=pt-BR&gbpv=0)
 
-[Introduction to Algorithms (Thomas Cormen)](https://www.google.com.br/books/edition/Introduction_to_Algorithms/i-bUBQAAQBAJ?hl=pt-BR&gbpv=0)
+[A Pattern Language](https://www.google.com.br/books/edition/A_Pattern_Language/FTpxDwAAQBAJ?hl=pt-BR&gbpv=0)
 
-[A Pattern Language  (Christopher Alexander)](https://www.google.com.br/books/edition/A_Pattern_Language/FTpxDwAAQBAJ?hl=pt-BR&gbpv=0)
+[Sapiens](https://books.google.com.br/books/about/Sapiens.html?id=FmyBAwAAQBAJ&redir_esc=y)
 
-[Sapiens - Uma breve história da humanidade (Yuval Harari) ](https://www.google.com.br/books/edition/Sapiens_Nova_edi%C3%A7%C3%A3o/JnoGEAAAQBAJ?hl=pt-BR&gbpv=0)
+[Clean Code](https://books.google.com.br/books/about/Clean_Code.html?id=_i6bDeoCQzsC&redir_esc=y)
 
-[Código Limpo (Robert Martin)](https://www.google.com.br/books/edition/C%C3%B3digo_Limpo/GXWkDwAAQBAJ?hl=pt-BR&gbpv=0)
-
-## Leituras concluídas
+## Finished reading
 
