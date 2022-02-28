@@ -8,8 +8,6 @@ Feel free to point me to readings, or start a conversation about any specific bo
 
 ## Reading
 
-[Creativity Inc.](https://www.google.com.br/books/edition/Creativity_Inc/hj6LBgAAQBAJ?hl=en&gbpv=1&printsec=frontcover)
-
 ## Interest List
 
 [How to Lie with Statistics](https://www.google.com.br/books/edition/How_to_Lie_with_Statistics/5oSU5PepogEC?hl=en&gbpv=1&printsec=frontcover)
@@ -28,5 +26,5 @@ Feel free to point me to readings, or start a conversation about any specific bo
 
 [Clean Code](https://books.google.com.br/books/about/Clean_Code.html?id=_i6bDeoCQzsC&redir_esc=y)
 
-## Finished reading
-
+## Finished Reading
+[Creativity Inc.](https://www.google.com.br/books/edition/Creativity_Inc/hj6LBgAAQBAJ?hl=en&gbpv=1&printsec=frontcover)
